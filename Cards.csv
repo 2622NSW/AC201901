@@ -1,0 +1,193 @@
+Game ,Referee_Name,CountryRef,Fixture,CardID,YCard,2YRed,Red,Player,CountryPlayer,GameState
+1,Adham Makhadmeh,Jordan,UAE v Bahrain,1,35,NA,NA,Amer Abdulrahman,UAE,D
+1,Adham Makhadmeh,Jordan,UAE v Bahrain,2,36,NA,NA,Khamis Esmaeel,UAE,D
+2,Ahmed Al Kaf,Oman,Australia v Jordan,3,28,NA,NA,Trent Sainsbury,Australia,L
+2,Ahmed Al Kaf,Oman,Australia v Jordan,4,51,NA,NA,Mousa Suleiman,Jordan,W
+3,Kwok Man Liu,Hong Kong,Thailand v India,5,39,NA,NA,Sanrawat Dechmitr,Thailand,D
+3,Kwok Man Liu,Hong Kong,Thailand v India,6,79,NA,NA,Pansa Hemviboon,Thailand,L
+4,Ravshan Irmatov,Uzbekistan,Syria v Palestine,7,5,NA,NA,Jonathan Zorilla,Palestine,D
+4,Ravshan Irmatov,Uzbekistan,Syria v Palestine,8,43,NA,NA,Mohammed Saleh,Palestine,D
+4,Ravshan Irmatov,Uzbekistan,Syria v Palestine,9,59,NA,NA,Musab Battat,Palestine,D
+4,Ravshan Irmatov,Uzbekistan,Syria v Palestine,10,NA,68,NA,Mohammed Saleh,Palestine,D
+4,Ravshan Irmatov,Uzbekistan,Syria v Palestine,11,76,NA,NA,Tamer Hag Mohamad,Syria,D
+4,Ravshan Irmatov,Uzbekistan,Syria v Palestine,12,90,NA,NA,Ahmed Ashkar,Syria,D
+5,Mohammed Abdulla Hassan,UAE,China v Kyrgyz Republic,13,57,NA,NA,Kairat Zhyrgalbek,Kyrgyz Republic,D
+6,Nawaf Shukralla,Bahrain,Korea Republic v Philippines,14,25,NA,NA,Lee Yong,Korea Republic,D
+6,Nawaf Shukralla,Bahrain,Korea Republic v Philippines,15,52,NA,NA,Jung Woo-young,Korea Republic,D
+6,Nawaf Shukralla,Bahrain,Korea Republic v Philippines,16,60,NA,NA,Patrick Reichelt,Philippines,D
+6,Nawaf Shukralla,Bahrain,Korea Republic v Philippines,17,77,NA,NA,Kim Jin-Su,Korea Republic,W
+6,Nawaf Shukralla,Bahrain,Korea Republic v Philippines,18,88,NA,NA,Stephan Schrock,Philippines,L
+7,Ryuji Sato,Japan,Iran v Yemen,19,39,NA,NA,Ramin Rezaeian,Iran,W
+7,Ryuji Sato,Japan,Iran v Yemen,20,77,NA,NA,Abdulwasea Al-Matari,Yemen,L
+7,Ryuji Sato,Japan,Iran v Yemen,21,80,NA,NA,Ahmed Al-Haifi,Yemen,L
+7,Ryuji Sato,Japan,Iran v Yemen,22,83,NA,NA,Mudir Abdurabu,Yemen,L
+7,Ryuji Sato,Japan,Iran v Yemen,23,90,NA,NA,Ala Addin Mahdi,Yemen,L
+8,Abdulrahman Al Jassim,Qatar,Iraq v Vietnam,24,1,NA,NA,Nguyen Trong Hoang,Vietnam,D
+8,Abdulrahman Al Jassim,Qatar,Iraq v Vietnam,25,18,NA,NA,Osama Jabbar,Iraq,D
+8,Abdulrahman Al Jassim,Qatar,Iraq v Vietnam,26,48,NA,NA,Do Duy Manh,Vietnam,W
+9,Peter Green,Australia,Saudi Arabia v North Korea,27,32,NA,NA,Kim Chol Bom,DPR Korea,L
+9,Peter Green,Australia,Saudi Arabia v North Korea,28,36,NA,NA,Han Kwang Song,DPR Korea,L
+9,Peter Green,Australia,Saudi Arabia v North Korea,29,NA,44,NA,Han Kwang Song,DPR Korea,L
+9,Peter Green,Australia,Saudi Arabia v North Korea,30,45,NA,NA,Salem Al Dawsari,Saudi Arabia,W
+9,Peter Green,Australia,Saudi Arabia v North Korea,31,53,NA,NA,Ri Il-Jin,DPR Korea,L
+9,Peter Green,Australia,Saudi Arabia v North Korea,32,90,NA,NA,Jong Il-Gwan,DPR Korea,L
+10,Alireza Faghani,Iran,Japan v Turkmenistan,33,33,NA,NA,Hiroki Sakai,Japan,L
+10,Alireza Faghani,Iran,Japan v Turkmenistan,34,78,NA,NA,Shuichi Gonda,Japan,W
+10,Alireza Faghani,Iran,Japan v Turkmenistan,35,90,NA,NA,Ylysov Vezigerdi,Turkmenistan,L
+11,Dong-jin Kim,Korea Republic,Uzbekistan v Oman,36,29,NA,NA,Jaloliddin Masharipov,Uzbekistan,D
+11,Dong-jin Kim,Korea Republic,Uzbekistan v Oman,37,58,NA,NA,Ignatiy Nesterov,Uzbekistan,W
+11,Dong-jin Kim,Korea Republic,Uzbekistan v Oman,38,NA,NA,90,Egor Krimets,Uzbekistan,W
+12,Ning Ma,China,Qatar v Oman,39,24,NA,NA,Robert Melki,Lebanon,D
+12,Ning Ma,China,Qatar v Oman,40,64,NA,NA,Hassan Maatouk,Lebanon,D
+13,Chris Beath,Australia,Bahrain v Thailand,41,13,NA,NA,Pansa Hemviboon,Thailand,D
+13,Chris Beath,Australia,Bahrain v Thailand,42,20,NA,NA,Suphang Thongsong,Thailand,D
+13,Chris Beath,Australia,Bahrain v Thailand,43,43,NA,NA,Adisak Kraisorn,Thailand,D
+13,Chris Beath,Australia,Bahrain v Thailand,44,45,NA,NA,Adison Promrak,Thailand,D
+14,Dong-jin Kim,South Korea,Jordan v Syria,45,2,NA,NA,Mardek Mrdkian,Syria,D
+14,Dong-jin Kim,South Korea,Jordan v Syria,46,33,NA,NA,Abdul Malek Anizan,Syria,L
+14,Dong-jin Kim,South Korea,Jordan v Syria,47,80,NA,NA,Mousa Suleiman,Jordan,W
+14,Dong-jin Kim,South Korea,Jordan v Syria,48,80,NA,NA,Jehad Al Baour,Syria,L
+15,César Ramos Palazuelos,Mexico,UAE v India,49,51,NA,NA,Ashique Kuruniyan,India,L
+15,César Ramos Palazuelos,Mexico,UAE v India,50,73,NA,NA,Subhashish Bose,India,L
+16,Valentin Kovalenko,Uzbekistan,Australia v Palestine,51,35,NA,NA,Jonathan Zorilla,Palestine,L
+16,Valentin Kovalenko,Uzbekistan,Australia v Palestine,52,56,NA,NA,Tomas Rogic,Australia,W
+16,Valentin Kovalenko,Uzbekistan,Australia v Palestine,53,83,NA,NA,Trent Sainsbury,Australia,W
+17,Hiroyuki Kimura,Japan,Philippines v China,54,34,NA,NA,Alvaro Silva,Philippines,D
+17,Hiroyuki Kimura,Japan,Philippines v China,55,55,NA,NA,Daisuke Sato,Philippines,L
+17,Hiroyuki Kimura,Japan,Philippines v China,56,73,NA,NA,Feng Xiaoting,China,W
+18,Khamis Al Marri,Qatar,Kyrgyz Republic v Korea Republic,57,79,NA,NA,Lee Yong,Korea Republic,W
+18,Khamis Al Marri,Qatar,Kyrgyz Republic v Korea Republic,58,83,NA,NA,Tursunali Rustamov,Kyrgyz Republic,L
+19,Muahmmad Taqi Bin Jahari,Singapore,Vietnam v Iran,59,19,NA,NA,Mehdi Taremi,Iran,D
+19,Muahmmad Taqi Bin Jahari,Singapore,Vietnam v Iran,60,46,NA,NA,Doan Van Hau,Vietnam,L
+19,Muahmmad Taqi Bin Jahari,Singapore,Vietnam v Iran,61,75,NA,NA,Ehsan Haji Safi,Iran,W
+19,Muahmmad Taqi Bin Jahari,Singapore,Vietnam v Iran,62,90,NA,NA,Do Duy Manh,Vietnam,L
+20,Ming Fu,China,Yemen v Iraq,63,52,NA,NA,Wahid Mohammed,Yemen,L
+21,Ali Sabah Adday Al Qaysi,Iraq,Lebanon v Saudi Arabia,64,41,NA,NA,Abdulaziz Al-Bishi,Saudi Arabia,W
+21,Ali Sabah Adday Al Qaysi,Iraq,Lebanon v Saudi Arabia,65,70,NA,NA,George Felix Melki,Lebanon,L
+21,Ali Sabah Adday Al Qaysi,Iraq,Lebanon v Saudi Arabia,66,82,NA,NA,Mohamad Haidar,Lebanon,L
+21,Ali Sabah Adday Al Qaysi,Iraq,Lebanon v Saudi Arabia,67,89,NA,NA,Hilal Alhelwe,Lebanon,L
+21,Ali Sabah Adday Al Qaysi,Iraq,Lebanon v Saudi Arabia,68,90,NA,NA,Salem Al Dawsari,Saudi Arabia,W
+22,Hettikamkanamge Perera,Sri Lanka,North Korea v Qatar,69,7,NA,NA,Abdelkarim Hassan,Qatar,D
+22,Hettikamkanamge Perera,Sri Lanka,North Korea v Qatar,70,13,NA,NA,Ri Un-Choi,DPR Korea,L
+22,Hettikamkanamge Perera,Sri Lanka,North Korea v Qatar,71,17,NA,NA,Ri Il-Jin,DPR Korea,L
+22,Hettikamkanamge Perera,Sri Lanka,North Korea v Qatar,72,17,NA,NA,Jong Il-Gwan,DPR Korea,L
+22,Hettikamkanamge Perera,Sri Lanka,North Korea v Qatar,73,54,NA,NA,Pak Kwang-Ryong,DPR Korea,L
+22,Hettikamkanamge Perera,Sri Lanka,North Korea v Qatar,74,NA,90,NA,Jong Il-Gwan,DPR Korea,L
+23,Mohamad Yaacob,Malaysia,Japan v Oman,75,26,NA,NA,Ahmed Al Mahaijri,Oman,D
+23,Mohamad Yaacob,Malaysia,Japan v Oman,76,36,NA,NA,Ritsu Doan,Japan,W
+23,Mohamad Yaacob,Malaysia,Japan v Oman,77,49,NA,NA,Raed Saleh,Oman,L
+23,Mohamad Yaacob,Malaysia,Japan v Oman,78,67,NA,NA,Takumi Minamino,Japan,W
+23,Mohamad Yaacob,Malaysia,Japan v Oman,79,90,NA,NA,Saad Al-Mukhaini,Oman,L
+24,Ammar Al Jenaibi,UAE,Turkmenistan v Uzbekistan,80,71,NA,NA,Anzur Ismailov,Uzbekistan,W
+25,Ryuji Sato,Japan,UAE v Thailand,81,7,NA,NA,Adison Promrak,Thailand,D
+25,Ryuji Sato,Japan,UAE v Thailand,82,34,NA,NA,Alhasan Salah Easa,UAE,W
+25,Ryuji Sato,Japan,UAE v Thailand,83,79,NA,NA,Suphang Thongsong,Thailand,D
+26,Il'giz Tantashev,Uzbekistan,India v Bahrain,84,64,NA,NA,Hamed Alshamsan,Bahrain,D
+26,Il'giz Tantashev,Uzbekistan,India v Bahrain,85,90,NA,NA,Ahmed Mubarek,Bahrain,W
+27,César Ramos Palazuelos,Mexico,Australia v Syria,86,59,NA,NA,Mahmoud Almawas,Syria,L
+27,César Ramos Palazuelos,Mexico,Australia v Syria,87,62,NA,NA,Massimo Luongo,Australia,W
+28,Mohanad Qasim Eesee Sarray,Iraq,Palestine v Jordan,88,19,NA,NA,Tamer Seyam,Palestine,D
+28,Mohanad Qasim Eesee Sarray,Iraq,Palestine v Jordan,89,25,NA,NA,Saeed Al Murjan,Jordan,D
+28,Mohanad Qasim Eesee Sarray,Iraq,Palestine v Jordan,90,54,NA,NA,Anas Bani Yaseen,Jordan,D
+28,Mohanad Qasim Eesee Sarray,Iraq,Palestine v Jordan,91,88,NA,NA,Mahmoud Wadi,Palestine,D
+29,Abdulrahman Al Jassim,Qatar,Korea Republic v Philippines,92,20,NA,NA,Zhao Xuri,China,L
+29,Abdulrahman Al Jassim,Qatar,Korea Republic v Philippines,93,21,NA,NA,Zhang Chendong,China,L
+29,Abdulrahman Al Jassim,Qatar,Korea Republic v Philippines,94,79,NA,NA,Zhang Linpeng,China,L
+29,Abdulrahman Al Jassim,Qatar,Korea Republic v Philippines,95,90,NA,NA,Gao Lin,China,L
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,96,2,NA,NA,Stephan Palla,Philippines,D
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,97,12,NA,NA,Tamarilan Kozubaev,Kyrgyz Republic,D
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,98,36,NA,NA,Farhat Musabekov,Kyrgyz Republic,W
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,99,45,NA,NA,Alvaro Silva,Philippines,L
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,100,51,NA,NA,Javier Patino,Philippines,L
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,101,66,NA,NA,Edgar Bernhardt,Kyrgyz Republic,W
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,102,66,NA,NA,Luke Woodland,Philippines,L
+30,Turki Al Khudair,Saudi Arabia,Kyrgyz Republic v Philippines,103,90,NA,NA,Kevin Ingreso,Philippines,L
+31,Ahmed Al Kaf,Oman,Vietnam v Yemen,104,27,NA,NA,Ala Addin Mahdi,Yemen,D
+31,Ahmed Al Kaf,Oman,Vietnam v Yemen,105,37,NA,NA,Wahid Mohammed,Yemen,D
+31,Ahmed Al Kaf,Oman,Vietnam v Yemen,106,63,NA,NA,Abdulaziz Al-Gumaei,Yemen,L
+31,Ahmed Al Kaf,Oman,Vietnam v Yemen,107,78,NA,NA,Nguyen Cong Phuong,Vietnam,W
+32,Ravshan Irmatov,Uzbekistan,Iran v Iraq,108,34,NA,NA,Amjed Attwan Kadhim,Iraq,D
+32,Ravshan Irmatov,Uzbekistan,Iran v Iraq,109,39,NA,NA,Saman Ghoddos,Iran,D
+32,Ravshan Irmatov,Uzbekistan,Iran v Iraq,110,68,NA,NA,Havid Amiri,Iran,D
+32,Ravshan Irmatov,Uzbekistan,Iran v Iraq,111,78,NA,NA,Ahmed Ibrahim,Iraq,D
+32,Ravshan Irmatov,Uzbekistan,Iran v Iraq,112,82,NA,NA,Ali Adnan Kadhim,Iraq,D
+33,Nawaf Shukralla,Bahrain,Oman v Turkmenistan,113,22,NA,NA,Harib Al-Saadi,Oman,W
+33,Nawaf Shukralla,Bahrain,Oman v Turkmenistan,114,35,NA,NA,Altymyrat Annadurdyyev,Turkmenistan,L
+33,Nawaf Shukralla,Bahrain,Oman v Turkmenistan,115,36,NA,NA,Khalid Al-Braiki,Oman,W
+33,Nawaf Shukralla,Bahrain,Oman v Turkmenistan,116,54,NA,NA,Serdar Geldiyev,Turkmenistan,D
+33,Nawaf Shukralla,Bahrain,Oman v Turkmenistan,117,72,NA,NA,Ahmet Atayev,Turkmenistan,D
+33,Nawaf Shukralla,Bahrain,Oman v Turkmenistan,118,79,NA,NA,Mekan Saparov,Turkmenistan,D
+33,Nawaf Shukralla,Bahrain,Oman v Turkmenistan,119,90,NA,NA,Mohammed Al Ghassani,Oman,W
+34,Mohammed Abdulla Hassan,UAE,Japan v Uzbekistan,120,33,NA,NA,Yoshinori Muto,Japan,D
+34,Mohammed Abdulla Hassan,UAE,Japan v Uzbekistan,121,48,NA,NA,Tsukasa Shiotani,Japan,D
+34,Mohammed Abdulla Hassan,UAE,Japan v Uzbekistan,122,69,NA,NA,Farrukh Sayfiev,Uzbekistan,L
+34,Mohammed Abdulla Hassan,UAE,Japan v Uzbekistan,123,72,NA,NA,Egor Krimets,Uzbekistan,L
+35,Dong-jin Kim,Korea Republic,Saudi Arabia v Qatar,124,7,NA,NA,Assim Omer Madibo,Qatar,D
+35,Dong-jin Kim,Korea Republic,Saudi Arabia v Qatar,125,41,NA,NA,Ali Hadi Albulayhi,Saudi Arabia,D
+35,Dong-jin Kim,Korea Republic,Saudi Arabia v Qatar,126,45,NA,NA,Almoez Ali,Qatar,W
+35,Dong-jin Kim,Korea Republic,Saudi Arabia v Qatar,127,58,NA,NA,Abdelaziz Hatim,Qatar,W
+35,Dong-jin Kim,Korea Republic,Saudi Arabia v Qatar,128,82,NA,NA,Mohammed Al Saiari,Saudi Arabia,L
+36,Chris Beath,Australia,Lebanon v North Korea,129,11,NA,NA,An Song_Il,DPR Korea,W
+36,Chris Beath,Australia,Lebanon v North Korea,130,30,NA,NA,Robert Melki,Lebanon,D
+36,Chris Beath,Australia,Lebanon v North Korea,131,61,NA,NA,Kim Chol Bom,DPR Korea,D
+36,Chris Beath,Australia,Lebanon v North Korea,132,72,NA,NA,Ri Hyok-Chol,DPR Korea,L
+36,Chris Beath,Australia,Lebanon v North Korea,133,85,NA,NA,Kim Yong-Il,DPR Korea,L
+36,Chris Beath,Australia,Lebanon v North Korea,134,90,NA,NA,Mohammed Haidar,Lebanon,W
+37,Alireza Faghani,Iran,Jordan v Vietnam,135,57,NA,NA,Khalil Bani Ateyah,Jordan,D
+38,Mohammed Abdulla Hassan,UAE,Thailand v China,136,8,NA,NA,Thitipan Puangchan,Thailand,D
+38,Mohammed Abdulla Hassan,UAE,Thailand v China,137,34,NA,NA,Zhang Linpeng,China,L
+38,Mohammed Abdulla Hassan,UAE,Thailand v China,138,35,NA,NA,Wu Xi,China,L
+38,Mohammed Abdulla Hassan,UAE,Thailand v China,139,43,NA,NA,Tanaboon Kesarat,Thailand,W
+38,Mohammed Abdulla Hassan,UAE,Thailand v China,140,45,NA,NA,Supachai Jaided,Thailand,W
+38,Mohammed Abdulla Hassan,UAE,Thailand v China,141,61,NA,NA,Shi Ke,China,L
+38,Mohammed Abdulla Hassan,UAE,Thailand v China,142,88,NA,NA,Jin Jingdao,China,W
+39,César Ramos Palazuelos,Mexico,Iran v Oman,143,2,NA,NA,Seyed Majid Hosseini,Iran,D
+39,César Ramos Palazuelos,Mexico,Iran v Oman,144,59,NA,NA,Mohammed Al-Mussallami,Oman,L
+39,César Ramos Palazuelos,Mexico,Iran v Oman,145,65,NA,NA,Vahid Amiri,Iran,W
+40,Ravshan Irmatov,Uzbekistan,Japan v Saudi Arabia,146,39,NA,NA,Yoshinori Muto,Japan,W
+40,Ravshan Irmatov,Uzbekistan,Japan v Saudi Arabia,147,55,NA,NA,Fahad Al Muwallad,Saudi Arabia,L
+40,Ravshan Irmatov,Uzbekistan,Japan v Saudi Arabia,148,81,NA,NA,Yaseer Alshahrani,Saudi Arabia,L
+41,Abdulrahman Al Jassim,Qatar,Australia v Uzbekistan,149,2,NA,NA,Islom Tukhtakhujaev,Uzbekistan,D
+41,Abdulrahman Al Jassim,Qatar,Australia v Uzbekistan,150,20,NA,NA,Tomas Rogic,Australia,D
+41,Abdulrahman Al Jassim,Qatar,Australia v Uzbekistan,151,25,NA,NA,Aziz Behich,Australia,D
+41,Abdulrahman Al Jassim,Qatar,Australia v Uzbekistan,152,46,NA,NA,Davron Khashimov,Uzbekistan,D
+41,Abdulrahman Al Jassim,Qatar,Australia v Uzbekistan,153,109,NA,NA,Ryan Grant,Australia,D
+42,Ming Fu,China,UAE v Kyrgyz Republic,154,8,NA,NA,Kairat Zhyrgalbek,Kyrgyz Republic,D
+42,Ming Fu,China,UAE v Kyrgyz Republic,155,23,NA,NA,Bekzhan Sagynbaev,Kyrgyz Republic,L
+42,Ming Fu,China,UAE v Kyrgyz Republic,156,78,NA,NA,Khamis Esmaeel,UAE,W
+42,Ming Fu,China,UAE v Kyrgyz Republic,157,88,NA,NA,Mirlan Murzaev,Kyrgyz Republic,L
+43,Ryuji Sato,Japan,Korea Republic v Bahrain,158,25,NA,NA,Ali Jaafar Madan,Bahrain,D
+43,Ryuji Sato,Japan,Korea Republic v Bahrain,159,95,NA,NA,Sayed Redha Isa,Bahrain,D
+44,Muahmmad Taqi Bin Jahari,Singapore,Qatar v Iraq,160,11,NA,NA,Assim Omer Madibo,Qatar,D
+44,Muahmmad Taqi Bin Jahari,Singapore,Qatar v Iraq,161,24,NA,NA,Mohanad Ali Kadhim,Iraq,D
+44,Muahmmad Taqi Bin Jahari,Singapore,Qatar v Iraq,162,39,NA,NA,Ahmed Ibrahim,Iraq,D
+44,Muahmmad Taqi Bin Jahari,Singapore,Qatar v Iraq,163,73,NA,NA,Amjed Attwan Kadhim,Iraq,L
+44,Muahmmad Taqi Bin Jahari,Singapore,Qatar v Iraq,164,84,NA,NA,Abdelkarim Hassan,Qatar,W
+44,Muahmmad Taqi Bin Jahari,Singapore,Qatar v Iraq,165,86,NA,NA,Safaa Hadi,Iraq,L
+44,Muahmmad Taqi Bin Jahari,Singapore,Qatar v Iraq,166,90,NA,NA,Bassam Al Rawi,Qatar,W
+45,Mohammed Abdulla Hassan,UAE,Vietnam v Japan,167,57,NA,NA,Bui Tien Dung,Vietnam,D
+45,Mohammed Abdulla Hassan,UAE,Vietnam v Japan,168,60,NA,NA,Doan Van Hau,Vietnam,L
+46,Abdulrahman Al Jassim,Qatar,China v Iran,169,67,NA,NA,Mehdi Taremi,Iran,W
+46,Abdulrahman Al Jassim,Qatar,China v Iran,170,78,NA,NA,Xiao Zhi,China,L
+47,Ravshan Irmatov,Uzbekistan,Korea Republic v Qatar,171,9,NA,NA,Kin Min-Jae,Korea Republic,D
+47,Ravshan Irmatov,Uzbekistan,Korea Republic v Qatar,172,37,NA,NA,Abdelaziz Hatim,Qatar,D
+47,Ravshan Irmatov,Uzbekistan,Korea Republic v Qatar,173,40,NA,NA,Bassam Al Rawi,Qatar,D
+47,Ravshan Irmatov,Uzbekistan,Korea Republic v Qatar,174,51,NA,NA,Jung Woo-young,Korea Republic,D
+48,Ryuji Sato,Japan,UAE v Australia,175,44,NA,NA,Robbie Kruse,Australia,D
+48,Ryuji Sato,Japan,UAE v Australia,176,61,NA,NA,Ismail Al Hamadi,UAE,D
+48,Ryuji Sato,Japan,UAE v Australia,177,78,NA,NA,Walid Abbas Murad,UAE,W
+48,Ryuji Sato,Japan,UAE v Australia,178,90+7,NA,NA,Jackson Irvine,Australia,L
+49,Chris Beath,Australia,Iran v Japan,179,24,NA,NA,Vahid Amiri,Iran,D
+49,Chris Beath,Australia,Iran v Japan,180,44,NA,NA,Omid Ebrahimi,Iran,D
+49,Chris Beath,Australia,Iran v Japan,181,46,NA,NA,Hiroki Sakai,Japan,D
+49,Chris Beath,Australia,Iran v Japan,182,90+4,NA,NA,Sardar Azmoun,Iran,L
+49,Chris Beath,Australia,Iran v Japan,183,90+4,NA,NA,Yuto Nagamato,Japan,W
+50,César Ramos Palazuelos,Mexico,Qatar v UAE,184,55,NA,NA,Ismaeil Matar,UAE,L
+50,César Ramos Palazuelos,Mexico,Qatar v UAE,185,62,NA,NA,Karim Boudiaf,Qatar,W
+50,César Ramos Palazuelos,Mexico,Qatar v UAE,186,87,NA,NA,Ahmed Al Aaeldin,Qatar,W
+50,César Ramos Palazuelos,Mexico,Qatar v UAE,187,NA,NA,90+1,Ismail Ahmed,UAE,L
+51,Ravshan Irmatov,Uzbekistan,Japan v Qatar,188,20,NA,NA,Gaku Shibasaki,Japan,L
+51,Ravshan Irmatov,Uzbekistan,Japan v Qatar,189,82,NA,NA,Maya Yoshida,Japan,L
+51,Ravshan Irmatov,Uzbekistan,Japan v Qatar,190,84,NA,NA,Akram Hassan Afif,Qatar,W
+51,Ravshan Irmatov,Uzbekistan,Japan v Qatar,191,86,NA,NA,Hiroki Sakai,Japan,L
+51,Ravshan Irmatov,Uzbekistan,Japan v Qatar,192,90+3,NA,NA,Pedro Correia,Qatar,W
